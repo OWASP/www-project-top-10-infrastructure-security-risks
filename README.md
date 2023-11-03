@@ -1,17 +1,6 @@
----
-
-layout: col-sidebar
-title: OWASP Top 10 Insider Threats
-tags: owasp top-10 insider-threats insider threats
-level: 2
-type: 
-pitch: Most common and critical insider threats
-
----
-
 # Welcome to the OWASP Top 10 Insider Threats - 2023
 
-![OWASP Top 10 Insider Threads Logo](./assets/images/logo.png){:class="img-responsive"}
+<img src="./assets/images/logo.png" alt="drawing" width="200" style="display: block;margin-left: auto;margin-right: auto;"/>
 
 The OWASP Top 10 Insider Threats shall provide information about the top Insider Threats, Risks and Vulnerabilities. 
 
