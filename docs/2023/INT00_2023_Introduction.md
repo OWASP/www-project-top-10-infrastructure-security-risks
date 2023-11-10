@@ -2,7 +2,7 @@
 
 ## Welcome to the OWASP Top 10 Insider Threats - 2023
 
-![OWASP Top 10 Insider Threats Logo](./assets/OWASP-Top-10-Insider-Threats-Logo.png){:class="img-responsive"}
+![OWASP Top 10 Insider Threats Logo](./../../assets/images/logo.png){:class="img-responsive"}
 
 The OWASP Top 10 Insider Threats shall provide information about the top Insider Threats, Risks and Vulnerabilities. 
 

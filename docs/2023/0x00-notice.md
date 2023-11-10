@@ -1,15 +1,15 @@
 # Release
 
-Released <day>th November 2023
+Released 13th November 2023
 
 ## Lead Authors and Project Leaders
 
-- [Nick Lorenz](mailto:nick.lorenz@owasp.org) (Profile and Links: [@Sharkeonix](http://sharkeonix.com), LinkedIn: [@NickLorenz](https://www.linkedin.com/in/nicklorenz/))
+- [Nick Lorenz](mailto:nick.lorenz@owasp.org) (Profile and Links: [@Sharkeonix](http://sharkeonix.com), LinkedIn: [@NickLorenz](https://www.linkedin.com/in/nicklorenz))
 - [Tim Barsch](mailto:tim.barsch@owasp.org) (GitHub: [:Domai](https://github.com/domai-tb), LinkedIn: [@TimBarsch](https://www.linkedin.com/in/domai-tb))
 
 ## Contributors
 
-- Tobias Neugebauer (LinkedIn: [@TobiasNeugebauer](https://www.linkedin.com/in/tobiasneugebauer/))
+- Tobias Neugebauer (LinkedIn: [@TobiasNeugebauer](https://www.linkedin.com/in/tobiasneugebauer))
 
 ## How you can help
 
