@@ -1,5 +1,5 @@
 ---
-title: Open Call for Data
+title: OpenCallForData
 layout:  null
 tab: true
 order: 4
@@ -64,4 +64,4 @@ Further explanation is stated in the Google Forms Document.
 ## Contact
 If you have any questions regarding this process, feel free to write us an E-Mail:
 
-[Nick Lorenz](mailto:nick.lorenz@owasp.org) and [Tim Barsch](mailto:tim.barsch@owasp.org)ts/images/sponsor_aware7.jpg)](https://aware7.com)
+[Nick Lorenz](mailto:nick.lorenz@owasp.org) and [Tim Barsch](mailto:tim.barsch@owasp.org)
