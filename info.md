@@ -1,7 +1,7 @@
 ### Top 10 Insider Threats Information
 
 Edition: 2023
-Version: 1.0 Release
+Version: 1.0 Release (13.11.2023)
 [GitHub](https://github.com/OWASP/www-project-top-10-insider-threats/tree/master/docs/2023)
 
 ### Project Information

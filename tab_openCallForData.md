@@ -20,7 +20,7 @@ To submit data, please prepare your data to fit to the following CSV structure a
 The CSV can then be submitted via the linked Google Forms Document where you need to fill in additional data.
 
 ### Google Forms Document
-<linkToGoogleFormsDocument>
+[Google Forms for Data Submission](https://forms.gle/m4iTGL3baKZvzHAB7)
 
 ### CSV Structure
 

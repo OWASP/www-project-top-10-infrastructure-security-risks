@@ -2,6 +2,8 @@
 
 Released 13th November 2023
 
+Version v1.0 (13.11.2023)
+
 ## Lead Authors and Project Leaders
 
 - [Nick Lorenz](mailto:nick.lorenz@owasp.org) (Profile and Links: [@Sharkeonix](http://sharkeonix.com), LinkedIn: [@NickLorenz](https://www.linkedin.com/in/nicklorenz))
