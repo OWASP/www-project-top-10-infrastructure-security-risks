@@ -1,3 +1,9 @@
+---
+title: Insecure Use of Cryptography
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int05 insecure use of cryptography
+---
+
 # INT05:2023 – Insecure Use of Cryptography
 
 ## Description

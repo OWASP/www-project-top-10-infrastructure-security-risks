@@ -1,3 +1,9 @@
+---
+title: About OWASP
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats about
+---
+
 # About OWASP
 
 The Open Worldwide Application Security Project (OWASP) is an open community dedicated to enabling organizations to develop, purchase, and maintain applications and APIs that can be trusted.

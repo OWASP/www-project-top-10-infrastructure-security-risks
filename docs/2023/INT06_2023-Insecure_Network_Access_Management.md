@@ -1,3 +1,9 @@
+---
+title: Insecure Network Access Management
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int06 insecure network access management
+---
+
 # INT06:2023 – Insecure Network Access Management
 
 ## Description

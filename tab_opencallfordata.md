@@ -1,7 +1,10 @@
 ---
-title: Open Call for Data
-layout: col-sidebar
-tags: owasp top-10 insider-threats insider threats open call for data
+title: opencallfordata
+displaytext: Open Call for Data
+layout:  null
+tab: true
+order: 3
+tags: owasp top-10 insider-threats insider threats
 ---
 
 # Open Call for Data -> OWASP Top 10 Insider Threats - Version 2025

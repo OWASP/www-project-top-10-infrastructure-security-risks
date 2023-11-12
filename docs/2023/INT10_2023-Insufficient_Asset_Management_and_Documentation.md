@@ -1,3 +1,9 @@
+---
+title: Insufficient Asset Management and Documentation
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int10 insufficient asset management and documentation
+---
+
 # INT10:2023 – Insufficient Asset Management and Documentation
 
 ## Description

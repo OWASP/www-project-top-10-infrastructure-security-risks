@@ -1,3 +1,9 @@
+---
+title: Next Steps
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats next steps
+---
+
 # Next Steps
 
 ## Road to "OWASP Top 10 Insider Threats - 2025"
