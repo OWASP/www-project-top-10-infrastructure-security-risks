@@ -1,3 +1,9 @@
+---
+title: Insecure Resource and User Management
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int04 insecure resource and user management
+---
+
 # INT04:2023 – Insecure Resource and User Management
 
 ## Description

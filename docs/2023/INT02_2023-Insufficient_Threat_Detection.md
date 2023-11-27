@@ -1,3 +1,9 @@
+---
+title: Insufficient Threat Detection
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int02 insufficient threat detection
+---
+
 # INT02:2023 – Insufficient Threat Detection
 
 ## Description

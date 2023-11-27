@@ -1,3 +1,9 @@
+---
+title: Insecure Access to Ressources and Management Components
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int09 insecure access to ressources and management components
+---
+
 # INT09:2023 – Insecure Access to Ressources and Management Components
 
 ## Description

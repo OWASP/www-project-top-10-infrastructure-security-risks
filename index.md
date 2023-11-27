@@ -11,20 +11,20 @@ pitch: Most common and critical insider threats
 
 # Welcome to the OWASP Top 10 Insider Threats - 2023
 
-![OWASP Top 10 Insider Threats Logo](./assets/images/logo.png){:class="img-responsive"}
+![OWASP Top 10 Insider Threats Logo](./assets/images/logo.png){:class="img-responsive"}{:width="750px"}
 
 The OWASP Top 10 Insider Threats shall provide information about the top Insider Threats, Risks and Vulnerabilities. 
 
-- [**INT01:2023 – Outdated Software**](./docs/2023/INT01_2023-Outdated_Software.md)
-- [**INT02:2023 – Insufficient Threat Detection**](./docs/2023/INT02_2023-Insufficient_Threat_Detection.md)
-- [**INT03:2023 – Insecure Configurations**](./docs/2023/INT03_2023-Insecure_Configurations.md)
-- [**INT04:2023 – Insecure Resource and User Management**](./docs/2023/INT04_2023-Insecure_Resource_and_User_Management.md)
-- [**INT05:2023 – Insecure Use of Cryptography**](./docs/2023/INT05_2023-Insecure_Use_of_Cryptography.md)
-- [**INT06:2023 – Insecure Network Access Management**](./docs/2023/INT06_2023-Insecure_Network_Access_Management.md)
-- [**INT07:2023 – Insecure Passwords and Default Credentials**](./docs/2023/INT07_2023-Insecure_Passwords_and_Default_Credentials.md)
-- [**INT08:2023 – Information Leakage**](./docs/2023/INT08_2023-Information_Leakage.md)
-- [**INT09:2023 – Insecure Access to Ressources and Management Components**](./docs/2023/INT09_2023-Insecure_Access_to_Resources_and_Management_Components.md)
-- [**INT10:2023 – Insufficient Asset Management and Documentation**](./docs/2023/INT10_2023-Insufficient_Asset_Management_and_Documentation.md)
+- [**INT01:2023 – Outdated Software**](./docs/2023/INT01_2023-Outdated_Software)
+- [**INT02:2023 – Insufficient Threat Detection**](./docs/2023/INT02_2023-Insufficient_Threat_Detection)
+- [**INT03:2023 – Insecure Configurations**](./docs/2023/INT03_2023-Insecure_Configurations)
+- [**INT04:2023 – Insecure Resource and User Management**](./docs/2023/INT04_2023-Insecure_Resource_and_User_Management)
+- [**INT05:2023 – Insecure Use of Cryptography**](./docs/2023/INT05_2023-Insecure_Use_of_Cryptography)
+- [**INT06:2023 – Insecure Network Access Management**](./docs/2023/INT06_2023-Insecure_Network_Access_Management)
+- [**INT07:2023 – Insecure Passwords and Default Credentials**](./docs/2023/INT07_2023-Insecure_Passwords_and_Default_Credentials)
+- [**INT08:2023 – Information Leakage**](./docs/2023/INT08_2023-Information_Leakage)
+- [**INT09:2023 – Insecure Access to Ressources and Management Components**](./docs/2023/INT09_2023-Insecure_Access_to_Resources_and_Management_Components)
+- [**INT10:2023 – Insufficient Asset Management and Documentation**](./docs/2023/INT10_2023-Insufficient_Asset_Management_and_Documentation)
 
 ## Motivation - Why is the OWASP Top 10 Insider Threats important?
 This OWASP Project aims to raise awareness and provide quality information regarding Insider Threats, Risks and Vulnerabilities.
@@ -39,4 +39,4 @@ There, you can donate data, anonymously or publicly, to the Project. In the cour
 This way, we plan to publish the OWASP Top 10 Insider Threats - Version 2025 using an even more extensive dataset and further improve the quality and significance.
 Contributors and donors will be listed as sponsors, if they wish so, on the related project pages.
 We also plan on doing CVE and CWE research for vulnerabilities regarding insider threats.
-For more information and how to contribute, please follow this [link](./docs/2023/INT_2023-Open_Call_for_Data.md).
+For more information and how to contribute, please follow this [link](./docs/2023/INT_2023-Open_Call_for_Data).

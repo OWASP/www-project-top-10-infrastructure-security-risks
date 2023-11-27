@@ -1,3 +1,9 @@
+---
+title: Outdated Software
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int01 outdated software
+---
+
 # INT01:2023 – Outdated Software
 
 ## Description

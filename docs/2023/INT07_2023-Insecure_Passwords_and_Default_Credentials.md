@@ -1,3 +1,9 @@
+---
+title: Insecure Passwords and Default Credentials
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int07 insecure passwords and default credentials
+---
+
 # INT07:2023 – Insecure Passwords and Default Credentials
 
 ## Description

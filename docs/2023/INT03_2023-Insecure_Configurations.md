@@ -1,3 +1,9 @@
+---
+title: Insecure Configurations
+layout: col-sidebar
+tags: owasp top-10 insider-threats insider threats int03 insecure configurations
+---
+
 # INT03:2023 – Insecure Configurations
 
 ## Description
