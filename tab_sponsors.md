@@ -9,8 +9,5 @@ tags: owasp top-10 insider-threats insider threats
 
 # Sponsors of the Project
 
-## Release - 2023
-
-The OWASP Top 10 Insider Threats - 2023 is sponsored bei AWARE7.
-
-[![AWARE7](assets/images/sponsor-aware7.jpg)](https://aware7.com)
+Become now an official sponsor for the project.
+If you are interested please contact the project leaders and checkout the open call for data page.
