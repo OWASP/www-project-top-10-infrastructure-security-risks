@@ -21,7 +21,7 @@ Version v1.0 (13.11.2023)
 
 ## How you can help
 
-For Version 2025 we are making an Open Call for Data. We would be happy if you want to contribute.
+For Version 2026 we are making an Open Call for Data. We would be happy if you want to contribute.
 For more information, please visit [this site](./INT_2023-Open_Call_for_Data.md).
 
 ## Log issues and pull requests

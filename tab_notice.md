@@ -24,7 +24,7 @@ Released 13th November 2023
 
 ## How you can help
 
-For Version 2025 we are making an Open Call for Data. We would be happy if you want to contribute.
+For Version 2026 we are making an Open Call for Data. We would be happy if you want to contribute.
 For more information, please visit [this site](./docs/2023/INT_2023-Open_Call_for_Data).
 
 ## Log issues and pull requests

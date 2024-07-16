@@ -7,10 +7,10 @@ order: 3
 tags: owasp top-10 insider-threats insider threats
 ---
 
-# Open Call for Data -> OWASP Top 10 Insider Threats - Version 2025
+# Open Call for Data -> OWASP Top 10 Insider Threats - Version 2026
 
 ## Motivation
-To further improve the quality and significance of the OWASP Top 10 Insider Threats, we kindly invite you to join our Open Call for Data for 2024. There, you can contribute data, anonymously or publicly, to the project. Throughout 2024, we will collect all the data and then process this data for use in 2025. This way, we plan to publish the OWASP Top 10 Insider Threats - Version 2025 using an even more extensive dataset and further improve the quality and significance. If desired, contributors and donors will be recognized as sponsors on the relevant project pages. We also have plans to conduct CVE and CWE research for vulnerabilities regarding insider threats.
+To further improve the quality and significance of the OWASP Top 10 Insider Threats, we kindly invite you to join our Open Call for Data for 2024 and 2025. There, you can contribute data, anonymously or publicly, to the project. Throughout 2024 and 2025, we will collect all the data and then process this data for use in 2026. This way, we plan to publish the OWASP Top 10 Insider Threats - Version 2026 using an even more extensive dataset and further improve the quality and significance. If desired, contributors and donors will be recognized as sponsors on the relevant project pages. We also have plans to conduct CVE and CWE research for vulnerabilities regarding insider threats.
 
 ## What Data is needed?
 We are looking for data regarding vulnerabilities in the context of insider threats e.g. findings from internal penetration tests or similar.

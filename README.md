@@ -23,9 +23,9 @@ Companies and organizations have to keep in mind that a defense line only to the
 These are the reasons why this project came to life. We want to provide useful and quality information and raise awareness about these threats in general to improve the internal security of companies and organizations worldwide.
 
 ## Open Call for Data, Next Version and Contribution
-To further improve the quality and significance of the OWASP Top 10 Insider Threats, we kindly invite you to join our Open Call for Data for 2024.
-There, you can donate data, anonymously or publicly, to the Project. In the course of 2024, we will collect all the data and then process it for 2025.
-This way, we plan to publish the OWASP Top 10 Insider Threats - Version 2025 using an even more extensive dataset and further improve the quality and significance.
+To further improve the quality and significance of the OWASP Top 10 Insider Threats, we kindly invite you to join our Open Call for Data for 2024 and 2025.
+There, you can donate data, anonymously or publicly, to the Project. In the course of 2024 and 2025, we will collect all the data and then process it for 2026.
+This way, we plan to publish the OWASP Top 10 Insider Threats - Version 2026 using an even more extensive dataset and further improve the quality and significance.
 Contributors and donors will be listed as sponsors, if they wish so, on the related project pages.
 We also plan on doing CVE and CWE research for vulnerabilities regarding insider threats.
 For more information and how to contribute, please follow this [link](./docs/2023/INT_2023-Open_Call_for_Data.md).
