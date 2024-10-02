@@ -1,19 +1,22 @@
-# Welcome to the OWASP Top 10 Infrastructure Threats - 2024
+---
+title: Introduction
+layout: col-sidebar
+tags:
+  - owasp
+  - top-10
+  - threats
+  - introduction
+  - infrastructure
+  - infrastructure-threats
+---
 
-<img src="./assets/images/logo.png" alt="drawing" width="200" style="display: block;margin-left: auto;margin-right: auto;"/>
+# Introduction
+
+## Welcome to the OWASP Top 10 Infrastructure Threats - 2024
+
+![OWASP Top 10 Infrastructure Threats Logo](./../../assets/images/logo.png){:class="img-responsive"}
 
 The OWASP Top 10 Infrastructure Threats shall provide information about the top Infrastructure Threats, Risks and Vulnerabilities. 
-
-- [**INT01:2024 – Outdated Software**](./docs/2024/INT01_2024-Outdated_Software.md)
-- [**INT02:2024 – Insufficient Threat Detection**](./docs/2024/INT02_2024-Insufficient_Threat_Detection.md)
-- [**INT03:2024 – Insecure Configurations**](./docs/2024/INT03_2024-Insecure_Configurations.md)
-- [**INT04:2024 – Insecure Resource and User Management**](./docs/2024/INT04_2024-Insecure_Resource_and_User_Management.md)
-- [**INT05:2024 – Insecure Use of Cryptography**](./docs/2024/INT05_2024-Insecure_Use_of_Cryptography.md)
-- [**INT06:2024 – Insecure Network Access Management**](./docs/2024/INT06_2024-Insecure_Network_Access_Management.md)
-- [**INT07:2024 – Insecure Passwords and Default Credentials**](./docs/2024/INT07_2024-Insecure_Passwords_and_Default_Credentials.md)
-- [**INT08:2024 – Information Leakage**](./docs/2024/INT08_2024-Information_Leakage.md)
-- [**INT09:2024 – Insecure Access to Ressources and Management Components**](./docs/2024/INT09_2024-Insecure_Access_to_Resources_and_Management_Components.md)
-- [**INT10:2024 – Insufficient Asset Management and Documentation**](./docs/2024/INT10_2024-Insufficient_Asset_Management_and_Documentation.md)
 
 ## Motivation - Why is the OWASP Top 10 Infrastructure Threats important?
 This OWASP Project aims to raise awareness and provide quality information regarding Infrastructure Threats, Risks and Vulnerabilities.
@@ -28,4 +31,4 @@ There, you can donate data, anonymously or publicly, to the Project. In the cour
 This way, we plan to publish the OWASP Top 10 Infrastructure Threats - Version 2026 using an even more extensive dataset and further improve the quality and significance.
 Contributors and donors will be listed as sponsors, if they wish so, on the related project pages.
 We also plan on doing CVE and CWE research for vulnerabilities regarding infrastructure threats.
-For more information and how to contribute, please follow this [link](./docs/2024/INT_2024-Open_Call_for_Data.md).
+For more information and how to contribute, please follow this [link](./INT_2024-Open_Call_for_Data.md).

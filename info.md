@@ -1,9 +1,9 @@
-## Top 10 Insider Threats Information
+## Top 10 Infrastructure Threats Information
 
-Edition: 2023<br>
+Edition: 2024<br>
 Version: 1.0 Release (13.11.2023)
 
-[GitHub](https://github.com/OWASP/www-project-top-10-insider-threats)
+[GitHub](https://github.com/OWASP/www-project-top-10-infrastructure-threats)
 
 ### Project Information
 

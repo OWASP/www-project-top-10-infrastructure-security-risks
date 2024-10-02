@@ -1,10 +1,15 @@
 ---
 title: Sponsors
 displaytext: Sponsors
-layout:  null
+layout: 
 tab: true
 order: 2
-tags: owasp top-10 insider-threats insider threats
+tags:
+  - owasp
+  - top-10
+  - threats
+  - infrastructure
+  - infrastructure-threats
 ---
 
 # Sponsors of the Project

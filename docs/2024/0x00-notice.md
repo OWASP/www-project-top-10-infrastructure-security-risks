@@ -1,22 +1,20 @@
 ---
 title: Notice
-displaytext: Notice
-layout: 
-tab: true
-order: 1
+layout: col-sidebar
 tags:
   - owasp
   - top-10
   - threats
+  - notice
   - infrastructure
   - infrastructure-threats
 ---
 
-# Notice
-
-## Release
+# Release
 
 Released 13th November 2023
+
+Version v1.0 (13.11.2023)
 
 ## Lead Authors and Project Leaders
 
@@ -30,7 +28,7 @@ Released 13th November 2023
 ## How you can help
 
 For Version 2026 we are making an Open Call for Data. We would be happy if you want to contribute.
-For more information, please visit [this site](./docs/2024/INT_2024-Open_Call_for_Data).
+For more information, please visit [this site](./INT_2024-Open_Call_for_Data.md).
 
 ## Log issues and pull requests
 
