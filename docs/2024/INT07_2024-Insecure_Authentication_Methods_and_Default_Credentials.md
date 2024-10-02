@@ -1,5 +1,5 @@
 ---
-title: Insecure Passwords and Default Credentials
+title: Insecure Authentication Methods and Default Credentials
 layout: col-sidebar
 tags:
   - owasp
@@ -7,18 +7,19 @@ tags:
   - threats
   - int07
   - insecure
-  - passwords
   - and
   - default
   - credentials
   - infrastructure
   - infrastructure-threats
+  - authentication
+  - methods
 ---
 
-# INT07:2024 – Insecure Passwords and Default Credentials
+# INT07:2024 – Insecure Authentication Methods and Default Credentials
 
 ## Description
-Passwords are still a fundamental part of cybersecurity, and many Identity and Access Management (IAM) Systems rely on username and password authentication. Insecure passwords are a common vulnerability in cybersecurity, referring to passwords that are easy to guess or crack due to their simplicity, predictability, or lack of complexity (length). Default credentials preconfigured on hardware devices or software applications by manufacturers or vendors are often left unchanged by users or administrators, creating a security vulnerability.
+Passwords are still a fundamental part of cybersecurity, and many Identity and Access Management (IAM) Systems rely on username and password authentication. Insecure Authentication Methods are a common vulnerability in cybersecurity, referring to passwords that are easy to guess or crack due to their simplicity, predictability, or lack of complexity (length). Default credentials preconfigured on hardware devices or software applications by manufacturers or vendors are often left unchanged by users or administrators, creating a security vulnerability.
 
 ## Risk
 Credentials are crucial to provide only authenticated and authorized users access to internal resources. Weak passwords can be easily exploited through various techniques, such as brute-force and dictionary attacks. Default credentials, however, can effortlessly be found in the documentation of the used product. Attackers can exploit devices or applications with unchanged default settings or stolen passwords. This can lead to unauthorized access, data breaches, and the compromise of critical systems.

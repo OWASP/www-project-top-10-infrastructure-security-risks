@@ -10,7 +10,7 @@ The OWASP Top 10 Infrastructure Threats shall provide information about the top 
 - [**INT04:2024 – Insecure Resource and User Management**](./docs/2024/INT04_2024-Insecure_Resource_and_User_Management.md)
 - [**INT05:2024 – Insecure Use of Cryptography**](./docs/2024/INT05_2024-Insecure_Use_of_Cryptography.md)
 - [**INT06:2024 – Insecure Network Access Management**](./docs/2024/INT06_2024-Insecure_Network_Access_Management.md)
-- [**INT07:2024 – Insecure Passwords and Default Credentials**](./docs/2024/INT07_2024-Insecure_Passwords_and_Default_Credentials.md)
+- [**INT07:2024 – Insecure Authentication Methods and Default Credentials**](./docs/2024/INT07_2024-Insecure_Authentication_Methods_and_Default_Credentials.md)
 - [**INT08:2024 – Information Leakage**](./docs/2024/INT08_2024-Information_Leakage.md)
 - [**INT09:2024 – Insecure Access to Ressources and Management Components**](./docs/2024/INT09_2024-Insecure_Access_to_Resources_and_Management_Components.md)
 - [**INT10:2024 – Insufficient Asset Management and Documentation**](./docs/2024/INT10_2024-Insufficient_Asset_Management_and_Documentation.md)
