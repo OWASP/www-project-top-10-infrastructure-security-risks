@@ -17,7 +17,7 @@ tags:
   - infrastructure-threats
 ---
 
-# INT09:2024 – Insecure Access to Ressources and Management Components
+# INT09:2024 – Insecure Access to Resources and Management Components
 
 ## Description
 Lack of proper access controls and permissions allows unauthorized individuals or programs to access sensitive data, systems, or physical locations. This vulnerability manifests in misconfigured access policies, overly permissive settings, or improper authentication mechanisms.

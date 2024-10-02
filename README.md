@@ -12,7 +12,7 @@ The OWASP Top 10 Infrastructure Threats shall provide information about the top 
 - [**INT06:2024 – Insecure Network Access Management**](./docs/2024/INT06_2024-Insecure_Network_Access_Management.md)
 - [**INT07:2024 – Insecure Authentication Methods and Default Credentials**](./docs/2024/INT07_2024-Insecure_Authentication_Methods_and_Default_Credentials.md)
 - [**INT08:2024 – Information Leakage**](./docs/2024/INT08_2024-Information_Leakage.md)
-- [**INT09:2024 – Insecure Access to Ressources and Management Components**](./docs/2024/INT09_2024-Insecure_Access_to_Resources_and_Management_Components.md)
+- [**INT09:2024 – Insecure Access to Resources and Management Components**](./docs/2024/INT09_2024-Insecure_Access_to_Resources_and_Management_Components.md)
 - [**INT10:2024 – Insufficient Asset Management and Documentation**](./docs/2024/INT10_2024-Insufficient_Asset_Management_and_Documentation.md)
 
 ## Motivation - Why is the OWASP Top 10 Infrastructure Threats important?
