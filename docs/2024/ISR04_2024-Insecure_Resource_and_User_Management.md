@@ -15,7 +15,7 @@ tags:
   - infrastructure-threats
 ---
 
-# INT04:2024 – Insecure Resource and User Management
+# ISR04:2024 – Insecure Resource and User Management
 
 ## Description
 A big part and challenge of running an IT infrastructure is managing its resources and users.

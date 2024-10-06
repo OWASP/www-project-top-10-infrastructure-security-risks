@@ -14,7 +14,7 @@ tags:
   - infrastructure-threats
 ---
 
-# INT05:2024 – Insecure Use of Cryptography
+# ISR05:2024 – Insecure Use of Cryptography
 
 ## Description
 Encryption plays an important role in cyber defense.

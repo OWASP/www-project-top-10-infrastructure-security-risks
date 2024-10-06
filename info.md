@@ -1,9 +1,9 @@
-## Top 10 Infrastructure Threats Information
+## Top 10 Infrastructure Security Risks Information
 
 Edition: 2024<br>
 Version: 1.0 Release (13.11.2023)
 
-[GitHub](https://github.com/OWASP/www-project-top-10-infrastructure-threats)
+[GitHub](https://github.com/OWASP/www-project-top-10-infrastructure-security-risks)
 
 ### Project Information
 

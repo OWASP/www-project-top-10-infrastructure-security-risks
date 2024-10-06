@@ -1,13 +1,14 @@
 ---
-title: opencallfordata
-displaytext: Open Call for Data
-layout:
-tab: true
-order: 3
+title: Open Call for Data
+layout: col-sidebar
 tags:
   - owasp
   - top-10
   - threats
+  - open
+  - call
+  - for
+  - data
   - infrastructure
   - infrastructure-threats
 ---
