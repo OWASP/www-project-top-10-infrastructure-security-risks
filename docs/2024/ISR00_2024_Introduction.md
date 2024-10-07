@@ -20,7 +20,7 @@ The OWASP Top 10 Infrastructure Security Risks shall provide information about t
 
 ## Motivation - Why is the OWASP Top 10 Infrastructure Security Risks important?
 
-This OWASP Project aims to raise awareness and provide quality information regarding Infrastructure Security Risks, Risks and Vulnerabilities.
+This OWASP Project aims to raise awareness and provide quality information regarding Infrastructure Security Risks, Threats and Vulnerabilities.
 Infrastructure Security Risks play an essential role in information security.
 After initial access, these vulnerabilities are the leading cause of compromising whole companies and organizations. Even though these Threats play an important role in the cyber kill chain, they are often overlooked by companies and organizations because the attack vectors originate from the inside and not outside.
 Companies and organizations have to keep in mind that a defense line only to the outside isn't enough. If an attacker is able to get through this line of defense or around, e.g. via Phishing, and gets an initial pivot point, internal defense mechanisms are mandatory. Especially Threat Detection and Monitoring are needed to identify internal attacks and threat actors.
