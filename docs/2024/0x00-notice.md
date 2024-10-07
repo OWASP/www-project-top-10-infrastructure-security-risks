@@ -10,11 +10,10 @@ tags:
   - infrastructure-threats
 ---
 
-# Release
+# Release / Changelog
 
-Released 13th November 2023
-
-Version v1.0 (13.11.2023)
+- Renaming - 25th November 2024 | Version 2024
+- Initial Release - 13th November 2023 | Version 2023
 
 ## Lead Authors and Project Leaders
 
