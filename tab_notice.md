@@ -1,15 +1,10 @@
 ---
 title: Notice
 displaytext: Notice
-layout: 
+layout: null
 tab: true
 order: 1
-tags:
-  - owasp
-  - top-10
-  - threats
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats
 ---
 
 # Notice
