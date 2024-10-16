@@ -1,13 +1,7 @@
 ---
 title: Notice
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - notice
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks notice
 ---
 
 # Release / Changelog

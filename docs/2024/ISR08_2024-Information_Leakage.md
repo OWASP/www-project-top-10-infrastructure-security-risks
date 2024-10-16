@@ -1,15 +1,7 @@
 ---
 title: Information Leakage
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int08
-  - information
-  - leakage
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks information leakage isr08
 ---
 
 # ISR08:2024 - Information Leakage

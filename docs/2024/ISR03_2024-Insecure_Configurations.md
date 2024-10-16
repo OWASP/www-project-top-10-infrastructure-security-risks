@@ -1,15 +1,7 @@
 ---
 title: Insecure Configurations
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int03
-  - insecure
-  - configurations
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure configurations isr03
 ---
 
 # ISR03:2024 – Insecure Configurations

@@ -1,14 +1,7 @@
 ---
 title: Next Steps
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - next
-  - steps
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks next steps
 ---
 
 # Next Steps

@@ -1,16 +1,7 @@
 ---
 title: Insufficient Threat Detection
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int02
-  - insufficient
-  - threat
-  - detection
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insufficient threat detection isr02
 ---
 
 # ISR02:2024 – Insufficient Threat Detection

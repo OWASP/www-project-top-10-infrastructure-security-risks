@@ -1,17 +1,7 @@
 ---
 title: Insecure Use of Cryptography
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int05
-  - insecure
-  - use
-  - of
-  - cryptography
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure use of cryptography isr05
 ---
 
 # ISR05:2024 – Insecure Use of Cryptography

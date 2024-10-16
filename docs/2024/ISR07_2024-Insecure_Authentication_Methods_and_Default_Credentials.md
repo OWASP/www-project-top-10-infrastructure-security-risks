@@ -1,19 +1,7 @@
 ---
 title: Insecure Authentication Methods and Default Credentials
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int07
-  - insecure
-  - and
-  - default
-  - credentials
-  - infrastructure
-  - infrastructure-threats
-  - authentication
-  - methods
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure authentication methods and default credentials isr07
 ---
 
 # ISR07:2024 – Insecure Authentication Methods and Default Credentials

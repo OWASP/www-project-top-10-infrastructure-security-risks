@@ -1,13 +1,7 @@
 ---
 title: Introduction
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - introduction
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks introduction
 ---
 
 # Introduction

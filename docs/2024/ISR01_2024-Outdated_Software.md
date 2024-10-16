@@ -1,15 +1,7 @@
 ---
 title: Outdated Software
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int01
-  - outdated
-  - software
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks outdated software isr01
 ---
 
 # ISR01:2024 – Outdated Software

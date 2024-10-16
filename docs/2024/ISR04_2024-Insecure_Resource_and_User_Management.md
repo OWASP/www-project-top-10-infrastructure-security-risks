@@ -1,18 +1,7 @@
 ---
 title: Insecure Resource and User Management
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int04
-  - insecure
-  - resource
-  - and
-  - user
-  - management
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure resource and user management isr04
 ---
 
 # ISR04:2024 – Insecure Resource and User Management

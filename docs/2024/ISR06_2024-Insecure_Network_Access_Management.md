@@ -1,17 +1,7 @@
 ---
 title: Insecure Network Access Management
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int06
-  - insecure
-  - network
-  - access
-  - management
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure network access management isr06
 ---
 
 # ISR06:2024 – Insecure Network Access Management

@@ -1,12 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Top 10 Infrastructure Security Risks
-tags:
-  - owasp
-  - top-10
-  - threats
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks
 level: 2
 type:
 pitch: Most common and critical Infrastructure Security Risks

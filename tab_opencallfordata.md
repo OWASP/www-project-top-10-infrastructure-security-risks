@@ -4,7 +4,7 @@ displaytext: Open Call for Data
 layout: null
 tab: true
 order: 3
-tags: owasp top-10 threats infrastructure infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks
 ---
 
 # Open Call for Data -> OWASP Top 10 Infrastructure Security Risks - Version 2026

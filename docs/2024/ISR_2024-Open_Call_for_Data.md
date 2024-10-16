@@ -1,16 +1,7 @@
 ---
 title: Open Call for Data
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - open
-  - call
-  - for
-  - data
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks open call for data
 ---
 
 # Open Call for Data -> OWASP Top 10 Infrastructure Security Risks - Version 2026

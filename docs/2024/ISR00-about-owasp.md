@@ -1,13 +1,7 @@
 ---
 title: About OWASP
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - about
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks about
 ---
 
 # About OWASP
