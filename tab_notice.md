@@ -32,4 +32,4 @@ For more information, please visit [this site](./docs/2024/ISR_2024-Open_Call_fo
 
 Please log any corrections or issues:
 
-- [https://github.com/OWASP/www-project-top-10-infrastructure-threats/issues](https://github.com/OWASP/www-project-top-10-infrastructure-threats/issues)
+- [https://github.com/OWASP/www-project-top-10-infrastructure-security-risks/issues](https://github.com/OWASP/www-project-top-10-infrastructure-security-risks/issues)

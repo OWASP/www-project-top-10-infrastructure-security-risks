@@ -27,4 +27,4 @@ For more information, please visit [this site](./ISR_2024-Open_Call_for_Data).
 
 Please log any corrections or issues:
 
-- [https://github.com/OWASP/www-project-top-10-infrastructure-threats/issues](https://github.com/OWASP/www-project-top-10-infrastructure-threats/issues)
+- [https://github.com/OWASP/www-project-top-10-infrastructure-security-risks/issues](https://github.com/OWASP/www-project-top-10-infrastructure-security-risks/issues)
