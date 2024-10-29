@@ -26,7 +26,7 @@ tags: owasp top-10 threats infrastructure infrastructure-threats security risks 
 ## How you can help
 
 For Version 2026 we are making an Open Call for Data. We would be happy if you want to contribute.
-For more information, please visit [this site](./docs/2024/INT_2024-Open_Call_for_Data).
+For more information, please visit [this site](./docs/2024/ISR_2024-Open_Call_for_Data).
 
 ## Log issues and pull requests
 
