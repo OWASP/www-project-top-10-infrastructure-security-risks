@@ -11,7 +11,7 @@ tags: owasp top-10 threats infrastructure infrastructure-threats security risks 
 
 ## Release / Changelog
 
-- Renaming - 25th November 2024 | Version 2024
+- Renaming - 25th October 2024 | Version 2024
 - Initial Release - 13th November 2023 | Version 2023
 
 ## Lead Authors and Project Leaders
