@@ -7,9 +7,11 @@ type:
 pitch: Most common and critical Infrastructure Security Risks
 ---
 
-# Welcome to the OWASP Top 10 Infrastructure Security Risks - 2024
+![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo-clean.png){:class="img-responsive"}{:width="750px"}{:style="margin-left:auto;margin-right:auto;"}
 
-![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo.png){:class="img-responsive"}{:width="750px"}
+<h1 align="center">
+Welcome to the OWASP Top 10 Infrastructure Security Risks - 2024
+</h1>
 
 The OWASP Top 10 Infrastructure Security Risks shall provide information about the top Infrastructure Security Risks, Threats and Vulnerabilities.
 
@@ -40,3 +42,7 @@ This way, we plan to publish the OWASP Top 10 Infrastructure Security Risks - Ve
 Contributors and donors will be listed as sponsors, if they wish so, on the related project pages.
 We also plan on doing CVE and CWE research for vulnerabilities regarding Infrastructure Security Risks.
 For more information and how to contribute, please follow this [link](./docs/2024/ISR_2024-Open_Call_for_Data).
+
+
+
+<img style="display:none" src="https://blt.owasp.org/projects/www-project-top-10-infrastructure-security-risks/badge">
