@@ -1,4 +1,6 @@
-<img src="./assets/images/logo-clean.png" alt="logo" width="300" style="display: block;margin-left: auto;margin-right: auto;"/>
+<p align="center">
+    <img src="./assets/images/logo-clean.png" alt="logo" width="300" style="display: block;margin-left: auto;margin-right: auto;"/>
+</p>
 
 <h1 align="center">
 Welcome to the OWASP Top 10 Infrastructure Security Risks - 2024

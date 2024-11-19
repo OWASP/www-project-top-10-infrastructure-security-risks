@@ -7,7 +7,7 @@ type:
 pitch: Most common and critical Infrastructure Security Risks
 ---
 
-![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo-clean.png){:class="img-responsive"}{:width="750px"}{:style="margin-left:auto;margin-right:auto;"}
+![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo-clean.png){:class="img-responsive"}{:width="750px"}{:style="display:block;margin-left:auto;margin-right:auto;"}
 
 <h1 align="center">
 Welcome to the OWASP Top 10 Infrastructure Security Risks - 2024
