@@ -27,7 +27,7 @@ The CSV can then be submitted via the linked Google Forms Document where you nee
 ### CSV Structure
 
 ```text
-id, count, [CWE], [ISRXX:2024], (CVSS v3 score), (CVSS v3 vector), CVSS v4 score, CVSS v4 vector, title, description and details, (risk), (rectification)
+id, count, [CWE], [ISRXX:2024], (CVE) , (CVSS v3 score), (CVSS v3 vector), CVSS v4 score, CVSS v4 vector, title, description and details, (risk), (rectification)
 ```
 
 - Fields with no brackets are mandatory.
@@ -40,6 +40,7 @@ id, count, [CWE], [ISRXX:2024], (CVSS v3 score), (CVSS v3 vector), CVSS v4 score
 - count: How many times this finding was found.
 - \[CWE\]: If possible, relating CWE Number.
 - \[ISRXX:2024\]: If possible, relating number of OWASP Top 10 Infrastructure Security Risks - Version 2024.
+- \(CVE\): If possible, relating CVE Number.
 - CVSS v3 score: The CVSS v3 score of the finding.
 - CVSS v3 vector: The CVSS v3 vector of the finding.
 - CVSS v4 score: The CVSS v4 score of the finding.
@@ -52,9 +53,9 @@ id, count, [CWE], [ISRXX:2024], (CVSS v3 score), (CVSS v3 vector), CVSS v4 score
 ### CSV Example
 
 ```text
-id, count, [CWE], [ISRXX:2024], (CVSS v3 score), (CVSS v3 vector), CVSS v4 score, CVSS v4 vector, title, description and details, (risk), (rectification)
+id, count, [CWE], [ISRXX:2024], (CVE) , (CVSS v3 score), (CVSS v3 vector), CVSS v4 score, CVSS v4 vector, title, description and details, (risk), (rectification)
 
-#1, 42, CWE-1104, ISR01:2024, 10.0, CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H, 10.0, CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H, Unsupported windows XP client with known vulnerabilities, A Windows XP Client was found. This version of Windows from Microsoft isn't supported anymore. There are no longer security patches and many publicly known exploits exists, including critical ones., Because this version of windows is no longer supported and there aren't security patches anymore, the number of known and critical exploits, without solutions to them, increases by time. These vulnerabilities can lead to the whole compromization of the system., It is recommended to upgrade the system to a up-to-date and supported version.
+#1, 42, CWE-1104, ISR01:2024, CVE-2000-1234 , 10.0, CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H, 10.0, CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H, Unsupported windows XP client with known vulnerabilities, A Windows XP Client was found. This version of Windows from Microsoft isn't supported anymore. There are no longer security patches and many publicly known exploits exists, including critical ones., Because this version of windows is no longer supported and there aren't security patches anymore, the number of known and critical exploits, without solutions to them, increases by time. These vulnerabilities can lead to the whole compromization of the system., It is recommended to upgrade the system to a up-to-date and supported version.
 ```
 
 ### Metadata
